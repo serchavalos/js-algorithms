@@ -43,7 +43,7 @@
     "babel-preset-stage-0": "^6.22.0",
     "chai": "^3.5.0",
     "del": "^2.2.2",
-    "eslint": "^3.16.0",
+    "eslint": "^3.17.0",
     "eslint-config-bliss": "^0.0.7",
     "eslint-formatter-pretty": "^1.1.0",
     "flow-bin": "^0.39.0",
